@@ -1,0 +1,50 @@
+body {
+    font-size: 16px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #afeeee;
+}
+
+input {
+	width: 200px;
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+	border: 1px solid #cecece;
+	background: #F6F6f6;
+    background-color: #afeeee;
+	border-radius: 8px;
+}
+
+.number {
+	width: 400px;
+	font-size: 20px;
+	padding: 3px 0 2px 15px;
+	border: 2px solid #cecece;
+    background-color: #ffb001;
+	border-radius: 12px;
+}
+
+.back {
+    background-color: #ffb001;
+}
+
+table {
+    align: center;
+    margin-bottom: 20px;
+    border: 15px solid #F2F8F8;
+    border-top: 5px solid #F2F8F8;
+    border-collapse: collapse;
+    width: 30%;
+    margin:0 auto;
+}
+
+td, th {
+	padding: 5px;
+    border: 15px solid #F2F8F8;
+	border-bottom: 5px solid #F2F8F8;
+}
+
+.centered {
+    text-align: center;
+}
+
